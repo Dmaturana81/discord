@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "discord"
+  site-url: "https://Dmaturana81.github.io/discord"
+  description: "This is a repo with examples to solve doubts from social media questions"
+  repo-branch: main
+  repo-url: "https://github.com/Dmaturana81/discord"
